@@ -10,13 +10,11 @@ source venv/bin/activate
 
 module load python/3.6.5-generic
 
-python Spark\ load\ forecasting\ spaindataset.py
-
 pip install pandas
 
 pip install pyspark
  
-python xx.py
+python Spark\ load\ forecasting\ xxx.py
 
 
 ## pip version issues (latest version of pip)
