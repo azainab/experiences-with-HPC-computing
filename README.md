@@ -17,3 +17,8 @@ pip install pandas
 pip install pyspark
  
 python xx.py
+
+
+## pip version issues (latest version of pip)
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py --user
