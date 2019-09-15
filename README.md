@@ -8,9 +8,9 @@ activate virtual_env
 
 source venv/bin/activate
 
-python Spark\ load\ forecasting\ spaindataset.py
-
 module load python/3.6.5-generic
+
+python Spark\ load\ forecasting\ spaindataset.py
 
 pip install pandas
 
