@@ -20,3 +20,5 @@ python Spark\ load\ forecasting\ xxx.py
 ## pip version issues (latest version of pip)
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python get-pip.py --user
+
+![Screenshot](screenshot.png)
