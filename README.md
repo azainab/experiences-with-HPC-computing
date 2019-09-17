@@ -21,4 +21,6 @@ python Spark\ load\ forecasting\ xxx.py
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python get-pip.py --user
 
+
+## Job Monitoring and Control Commands
 ![Screenshot](image.png)
